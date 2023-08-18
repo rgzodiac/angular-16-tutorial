@@ -1,5 +1,7 @@
 # Angular16Tutorial
 
+https://jasonwatmore.com/angular-15-free-course-1-create-base-project-structure
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 ## Development server
